@@ -11,7 +11,7 @@ It helps banks, lenders, and financial institutions decide who is more likely to
 
 ## 🎯 Key Results  
 
-![image alt]( 
+![image alt](https://github.com/ALuevanos/Financial-Risk-Model/blob/7b0fcb47d2d18b0e41a895dbb661cc83c3df369e/results.png) 
 
 🔹 **Best Model:** **Gradient Boosting** (Most accurate & generalizes well).  
 🔹 **Use Case:** Can help **banks approve or reject loans fairly** and **reduce financial risk**.
