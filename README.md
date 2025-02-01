@@ -18,7 +18,7 @@ It helps banks, lenders, and financial institutions decide who is more likely to
 
 ## 📸 Model Performance Visualization  
 ### **Confusion Matrix (Gradient Boosting)**
-![image alt]( 
+![image alt](https://github.com/ALuevanos/Financial-Risk-Model/blob/8c3f3bb5e03dafd1f316831615a72fd16fe96c5a/gconfuionmatrix.png)
 
 ---
 
